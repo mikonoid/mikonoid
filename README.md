@@ -33,7 +33,6 @@ As well I have experience with private clouds and building big projects from scr
 <img src="images/svgicons/github-icon.svg" alt="Github" width="45" height="45" />
 <img src="images/svgicons/rabbitmq-icon.svg" alt="rabbitmq" width="45" height="45" />
 <img src="images/svgicons/kubernetes-icon.svg" alt="Kubernetes" width="45" height="45" />
-<img src="images/svgicons/influxdata-icon.svg" alt="InfluxData" width="45" height="45" />
 <img src="images/svgicons/docker-icon.svg" alt="Docker" width="45" height="45" />
 <img src="images/svgicons/prometheusio-icon.svg" alt="prometheusio" width="45" height="45" />
 <img src="images/svgicons/elasticco_logstash-icon.svg" alt="logstash" width="45" height="45" />
