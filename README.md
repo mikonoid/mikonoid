@@ -1,4 +1,4 @@
-# Mahatma Gandhi: "A man is but a product of his thoughts. What he thinks he becomes."
+# Devops ninja
 
 #### *"Software is like sex: it's better when it's free." — Linus Torvalds*
 
