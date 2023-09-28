@@ -2,7 +2,7 @@
 
 #### *"We don't rise to the level of our expectations, we fall to the level of our training." — Archilochus*
 
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/mikonoid) [![GitHub followers](https://img.shields.io/github/followers/mikonoid?label=Follow&style=social)](https://github.com/mikonoid/?tab=follow) ![Profile views](https://gpvc.arturio.dev/mikonoid) ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-mikonoid-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikhail-ivanov-bb585160/)](https://www.linkedin.com/in/mikhail-ivanov-bb585160/) [![Instagram Badge](https://img.shields.io/badge/-slon.gobo-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/slon.gobo/)](https://instagram.com/slon.gobo)
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/mikonoid) [![GitHub followers](https://img.shields.io/github/followers/mikonoid?label=Follow&style=social)](https://github.com/mikonoid/?tab=follow)  ![licence:free to use](https://img.shields.io/badge/licence-free--to--use-blue) [![Linkedin Badge](https://img.shields.io/badge/-mikonoid-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikhail-ivanov-bb585160/)](https://www.linkedin.com/in/mikhail-ivanov-bb585160/) [![Instagram Badge](https://img.shields.io/badge/-slon.gobo-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/slon.gobo/)](https://instagram.com/slon.gobo)
 ---
 
 ## About me
